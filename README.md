@@ -2,7 +2,6 @@
 
 ## testing the table
 
-### how this is show
 
 | ip address   |    descriptions   |  hostnames |
 | ------------ | ----------------- | ---------- |
